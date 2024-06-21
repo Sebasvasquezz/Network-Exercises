@@ -67,7 +67,7 @@ The acceptance tests included in this project aim to validate the accuracy and r
     & 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'E:\ARSW\5. Tarea3\Network-Exercises\target\classes' 'edu.escuelaing.arsw.ASE.app.Exercise_1.Exercise_1'
     ```
     Execution:
-    ![Execution](image.png)
+    ![Execution](Images/image.png)
 
     
     
@@ -78,7 +78,7 @@ The acceptance tests included in this project aim to validate the accuracy and r
     & 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'E:\ARSW\5. Tarea3\Network-Exercises\target\classes' 'edu.escuelaing.arsw.ASE.app.Exercise_2.Exercise_2'
     ```
     Execution:
-    ![Execution](image-1.png)
+    ![Execution](Images/image-1.png)
 
 *  **Exercise 4.3.1**
 
@@ -92,7 +92,7 @@ The acceptance tests included in this project aim to validate the accuracy and r
         & 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'E:\ARSW\5. Tarea3\Network-Exercises\target\classes' 'edu.escuelaing.arsw.ASE.app.Exercise_4_3_1.EchoClient'
         ```
         Execution:
-        ![Execution](image-2.png)
+        ![Execution](Images/image-2.png)
 
 *  **Exercise 4.3.2**
 
@@ -106,7 +106,7 @@ The acceptance tests included in this project aim to validate the accuracy and r
         & 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'E:\ARSW\5. Tarea3\Network-Exercises\target\classes' 'edu.escuelaing.arsw.ASE.app.Exercise_4_3_2.EchoClient'
         ```
         Execution:
-        ![Execution](image-3.png)
+        ![Execution](Images/image-3.png)
 
 
 *  **Exercise 4.4**
@@ -116,7 +116,7 @@ The acceptance tests included in this project aim to validate the accuracy and r
     & 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'E:\ARSW\5. Tarea3\Network-Exercises\target\classes' 'edu.escuelaing.arsw.ASE.app.Exercise_4_4.HttpServer'
     ```
     Execution in browser:
-    ![Execution in browser](image-4.png)
+    ![Execution in browser](Images/image-4.png)
 
 *  **Exercise 4.5.1**
 
@@ -125,7 +125,7 @@ The acceptance tests included in this project aim to validate the accuracy and r
     & 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'E:\ARSW\5. Tarea3\Network-Exercises\target\classes' 'edu.escuelaing.arsw.ASE.app.Exercise_4_5_1.EchoServer'
     ```
     Execution in browser:
-    ![Execution in browser](image-5.png)
+    ![Execution in browser](Images/image-5.png)
 
 *  **Exercise 5.2.1**
 
@@ -139,7 +139,7 @@ The acceptance tests included in this project aim to validate the accuracy and r
         & 'C:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'E:\ARSW\5. Tarea3\Network-Exercises\target\classes' 'edu.escuelaing.arsw.ASE.app.Exercise_5_2_1.DatagramTimeClient'
         ```
         Execution:
-        ![Execution](image-7.png)
+        ![Execution](Images/image-7.png)
 
 *  **Exercise 6.4.1**
 
