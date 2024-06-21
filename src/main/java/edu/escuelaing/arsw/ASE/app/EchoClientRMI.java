@@ -1,4 +1,4 @@
-package edu.escuelaing.arsw.ASE.app.Exercise_6_4_1;
+package edu.escuelaing.arsw.ASE.app;
 
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;

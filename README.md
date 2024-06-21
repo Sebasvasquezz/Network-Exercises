@@ -31,10 +31,13 @@ The repository will contain a collection of Java programs that address different
 
     It is a program that uses you to connect to a server that responds to the current time on the server. The program updates the time every 5 seconds based on data from the server. If a time is not received, it maintains the time it had. For the test, the server will be turned off and after a few seconds it will be reactivated. The client continues to run and is updated when the server is up and running again.
 
+
+
 *  **Exercise 6.4.1**
 
     It is an application that can connect to another application of the same type on a remote server using RMI to start a chat. The application requests an IP address and a port before connecting to the desired client. Likewise, it requests a port before starting so that it publishes the object that receives remote calls on that port.
 
+Additionally, this repository contains base implementation classes of the topics covered.
 
 ## Getting Started
 Download the project from 
@@ -142,7 +145,19 @@ The acceptance tests included in this project aim to validate the accuracy and r
         ![Execution](Images/image-7.png)
 
 *  **Exercise 6.4.1**
-
+Run the commands:
+    * To start the server:
+        ```
+        & 'Cs' 'edu.escuelaing.arsw.A:\Program Files\Java\jdk-21\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 
+        'E:\ARSW\5. Tarea3\Network-Exercises\target\classes' 'edu.escuelaing.arsw.ASE.app.Exercise_6_4_1.ChatServer' <port>
+        ```
+    * To start the clients:
+        ```
+        & 'C:\Program Files\Java\jd:\Program Files\Java\jdk-21\bin\java.exe' '-XeptionMessages' '-cp' 'X:+ShowCodeDetailsInExceptionMessages' '-cp' asses' 'edu.escuelaing.
+        'E:\ARSW\5. Tarea3\Network-Exercises\target\c.0.1 30000lasses' 'edu.escuelaing.arsw.ASE.app.Exercise_6_4_1.ChatClient'<ip dir><port>'
+        ```
+        Execution:
+        ![Execution](image.png)
 ## Build the project
 * Run the comand:
     ```
