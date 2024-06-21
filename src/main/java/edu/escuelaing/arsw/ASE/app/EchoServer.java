@@ -3,7 +3,17 @@ package edu.escuelaing.arsw.ASE.app;
 import java.net.*;
 import java.io.*;
 
+/**
+ * The EchoServer class represents a server that echoes messages received from clients over a TCP connection.
+ * It listens for incoming connections on a specified port, accepts client connections, and echoes messages back to the clients.
+ */
 public class EchoServer {
+    /**
+     * Main method to execute the EchoServer.
+     * 
+     * @param args the command line arguments
+     * @throws IOException if an I/O error occurs
+     */
     public static void main(String[] args) throws IOException {
         ServerSocket serverSocket = null;
         try {
