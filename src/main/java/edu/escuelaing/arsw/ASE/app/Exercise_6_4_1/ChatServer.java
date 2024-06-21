@@ -3,7 +3,17 @@ package edu.escuelaing.arsw.ASE.app.Exercise_6_4_1;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 
+/**
+ * ChatServer class to start the RMI chat server.
+ * Publishes the Chat service to the RMI registry.
+ */
 public class ChatServer {
+    /**
+     * Main method to start the ChatServer.
+     * Binds the Chat service to the RMI registry.
+     * 
+     * @param args the command line arguments (server port)
+     */
     public static void main(String[] args) {
         if (args.length < 1) {
             System.out.println("Usage: java ChatServer <port>");
